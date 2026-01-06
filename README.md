@@ -1,1 +1,2 @@
-https://hono-nine.vercel.app/
+- https://hono-nine.vercel.app/
+- https://zenn.dev/hono8944
